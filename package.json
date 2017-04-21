@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "fdsafdsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singerbj/sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singerbj/sandbox/issues"
+  },
+  "homepage": "https://github.com/singerbj/sandbox#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  },
+  "devDependencies": {}
+}
