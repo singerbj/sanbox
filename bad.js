@@ -7,6 +7,7 @@ function aa() {
   return true != false;
 }
 
+
 /*eslint-disable*/
 console.log(aa, a, b, c);
 /*eslint-enable*/
