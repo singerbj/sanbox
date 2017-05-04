@@ -1,0 +1,10 @@
+{
+    "keep_array_indentation": false,
+    "indent_with_tabs": false,
+    "indent_char": " ",
+    "indent_size": 4,
+    "ensure_newline_at_eof_on_save": true,
+    "space_before_line_starters": false,
+    "jslint_happy": true,
+    "format_on_save": true
+}

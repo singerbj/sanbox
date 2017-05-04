@@ -4,10 +4,11 @@ c = 4;
 a = b;
 
 function aa() {
-  return true != false;
+    return true != false;
 }
-
-
 /*eslint-disable*/
 console.log(aa, a, b, c);
 /*eslint-enable*/
+var cats = [
+    "fdsa", "afd", "afdas",
+];
